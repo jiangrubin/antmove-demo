@@ -1,0 +1,8 @@
+/*
+ * 查看 vant 全部颜色变量
+ * https://github.com/vant-ui/vant-weapp/blob/dev/packages/common/style/var.less
+*/
+
+page {
+  --text-color: #323233;
+}

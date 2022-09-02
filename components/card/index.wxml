@@ -1,0 +1,1 @@
+<view>内容内容内容 {{ message }}</view>

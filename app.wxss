@@ -1,0 +1,12 @@
+/*wxStart*/
+@import './miniprogram_npm/@vant/weapp/common/index.wxss';
+/*wxEnd*/
+@import './styles/var.wxss';
+
+page {
+  font-size: 14px;
+  color: var(--text-color);
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Segoe UI, Arial, Roboto, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
